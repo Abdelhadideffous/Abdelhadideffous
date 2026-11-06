@@ -43,4 +43,4 @@ I enjoy building things for the web, learning how systems work under the hood, a
 ## Get in touch
 
 - 📧 abdeffou@gmail.com
-- 💼 [LinkedIn]([https://YOUR-LINKEDIN-LINK](https://www.linkedin.com/in/abdelhadi-deffous-75189a229/))
+- 💼 [LinkedIn]([https://www.linkedin.com/in/abdelhadi-deffous-75189a229/])
