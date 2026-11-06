@@ -19,12 +19,12 @@ I enjoy building things for the web, learning how systems work under the hood, a
 ## 📈 GitHub Stats
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Abdelhadideffous&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img height="170" src="https://streak-stats.demolab.com/?user=Abdelhadideffous&theme=radical&hide_border=true" alt="GitHub streak" />
+  <img height="180" src="https://raw.githubusercontent.com/Abdelhadideffous/Abdelhadideffous/main/profile-summary-card-output/radical/3-stats.svg" alt="GitHub stats" />
+  <img height="180" src="https://streak-stats.demolab.com/?user=Abdelhadideffous&theme=radical&hide_border=true" alt="GitHub streak" />
 </p>
 
 <p align="left">
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelhadideffous&layout=donut-vertical&theme=radical&hide_border=true&custom_title=Top%20Languages" alt="Top languages" />
+  <img height="200" src="https://raw.githubusercontent.com/Abdelhadideffous/Abdelhadideffous/main/profile-summary-card-output/radical/2-most-commit-language.svg" alt="Top languages by commit" />
 </p>
 
 ## 📫 Get in touch
