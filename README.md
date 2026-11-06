@@ -5,10 +5,12 @@ Software engineer in the making, studying at USTHB in Algiers. I'm the kind of d
 
 ## About me
 
-- 🎓 Master's student in Software Engineering 
-- 🧠 I care about the "why" behind the code: architecture, trade-offs and how systems behave under pressure
-- 🔬 Currently exploring distributed systems, from CAP theorem to CRDTs, and getting deeper into .NET
-- 🌍 Based in Algeria, open to remote collaboration and international opportunities
+- 🎓 Master's student in Software Engineering at USTHB 
+- 🔧 Currently building with Laravel, React, TypeScript and .NET
+- 🔐 Built an SSO system with .NET 8 during a one-month internship
+- 📚 Bachelor's in Computer Science (USTHB, 2025)
+- 🐍 Also working with Python and Java, with a solid base in Git, Docker and Linux
+- 🌍 Open to remote collaboration and international opportunities
 
 ## 🧰 Languages and Tools
 
