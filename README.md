@@ -25,11 +25,11 @@ I enjoy building things for the web, learning how systems work under the hood, a
 </p>
 
 <p align="left">
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=donut-vertical&theme=radical&hide_border=true&custom_title=Top%20Languages" alt="Top languages" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelhadideffous&layout=donut-vertical&theme=radical&hide_border=true&custom_title=Top%20Languages" alt="Top languages" />
 </p>
 
 ## 📫 Get in touch
 
-- 📧 your@email.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/ton-nom)
-- 🌐 [Portfolio](https://YOUR-PORTFOLIO-LINK)
+- 📧 Abdeffou@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/abdelhadi-deffous-75189a229)
+
