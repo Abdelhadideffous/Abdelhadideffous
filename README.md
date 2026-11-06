@@ -5,7 +5,7 @@ I enjoy building things for the web, learning how systems work under the hood, a
 
 ## About me
 
-- 🎓 Master's student in Software Engineering (graduating 2027)
+- 🎓 Master's student in Software Engineering
 - 🎯 Interested in backend development, software architecture and clean code
 - 💡 Curious by nature, I like understanding how things work and learning by building
 - 🌍 Open to remote collaboration and international opportunities
@@ -14,14 +14,13 @@ I enjoy building things for the web, learning how systems work under the hood, a
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=php,py,java,cs,ts,js,react,nodejs,dotnet,laravel,tailwind,mysql,mongodb,docker,git,github,linux,bash&perline=9" alt="Languages and tools" />
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
 </p>
 
 ## 📈 GitHub Stats
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img height="170" src="https://streak-stats.demolab.com/?user=USERNAME&theme=radical&hide_border=true" alt="GitHub streak" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Abdelhadideffous&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
+  <img height="170" src="https://streak-stats.demolab.com/?user=Abdelhadideffous&theme=radical&hide_border=true" alt="GitHub streak" />
 </p>
 
 <p align="left">
@@ -32,4 +31,3 @@ I enjoy building things for the web, learning how systems work under the hood, a
 
 - 📧 Abdeffou@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/abdelhadi-deffous-75189a229)
-
