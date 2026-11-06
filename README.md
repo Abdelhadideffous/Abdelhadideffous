@@ -1,14 +1,14 @@
 # Hi, I'm Abdelhadi 👋
 
-Software engineering student at USTHB (Algiers, Algeria) and passionate developer.
-I enjoy building things for the web, learning how systems work under the hood, and writing clean, maintainable code.
+
+Software engineer in the making, studying at USTHB in Algiers. I'm the kind of developer who can't leave a black box alone: I want to know what happens between the click and the database, and then build it better.
 
 ## About me
 
-- 🎓 Master's student in Software Engineering
-- 🎯 Interested in backend development, software architecture and clean code
-- 💡 Curious by nature, I like understanding how things work and learning by building
-- 🌍 Open to remote collaboration and international opportunities
+- 🎓 Master's student in Software Engineering 
+- 🧠 I care about the "why" behind the code: architecture, trade-offs and how systems behave under pressure
+- 🔬 Currently exploring distributed systems, from CAP theorem to CRDTs, and getting deeper into .NET
+- 🌍 Based in Algeria, open to remote collaboration and international opportunities
 
 ## 🧰 Languages and Tools
 
